@@ -89,7 +89,7 @@ In this project of Play Store App Review Analysis we will be analyzing each and 
 
 18. Installs are positively correlated with reviews with correlation value of 0.63
 
-##References
+## References
 1. GeekforGeeks
 2. Kaggle
 3. Analytics Vidya
